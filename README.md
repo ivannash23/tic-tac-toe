@@ -14,17 +14,7 @@ For your first weekend lab, we'll be making a tic-tac-toe game using your knowle
 * Users should be able to click a "reset" button to clear all `X`'s and `O`'s from the board and restart the game.
 
 
-## Further Challenge Ideas
-
-* Display a message to indicate which player's turn is about to be played (`X` or `O`).    
-
-* If a player wins, show a message with the mark of the winner.  Separate your code that finds the winner (if any) into its own function.
-
-* If the board fills up before anyone wins, show a message that it was a draw.
-
-* Display separate colors for `X`'s and `O`'s.
-
-* Creatively style your tic-tac-toe game!  
+## Further Challenge Ideas   
 
 * Research "event delegation," and attach your event listeners to the whole board instead of individual boxes.
 

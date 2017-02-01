@@ -1,0 +1,33 @@
+#board {
+  margin-top: 10px;
+}
+
+.box-a, .box-b {
+  	border-bottom: 4px solid black;
+}
+
+.box-a, .box-b, .box-c{
+	min-height: 100px;
+}
+
+.box-1{
+  border-right: 4px solid black;
+}
+.box-2{
+  border-right: 4px solid black
+}
+.box:hover {
+  background-color: red;
+}
+
+#X, #O{
+	font-size:50px;
+}
+
+#X{
+	background-color: blue;
+}
+
+#O{
+	background-color: yellow;
+}
